@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1576847538 source:d:\c++\3.2\main.cpp
+	<windows.h>
+	"CLASS.h"
+
+1576855202 d:\c++\3.2\class.h
+	<iostream>
+	<fstream>
+	<string>
+
+1580835603 source:b:\c-master\main.cpp
+	<windows.h>
+	"CLASS.h"
+
+1580828748 b:\c-master\class.h
+	<iostream>
+	<fstream>
+	<string>
+
